@@ -4,7 +4,7 @@ A static portfolio built with HTML and CSS. No JavaScript, frameworks, dependenc
 
 ## Update content
 
-Edit `index.html` for content and `styles.css` for appearance. Replace `resume.pdf` to update the downloadable resume.
+Edit `index.html` for the bio page, `portfolio.html` for research and work and `styles.css` for appearance. Replace `resume.pdf` to update the downloadable resume.
 
 ## GitHub Pages
 
